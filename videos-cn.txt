@@ -11,7 +11,15 @@
 #
  
 # [bilibili.com]
-127.0.0.1 analytics.163.com
-127.0.0.1 crash.163.com
-127.0.0.1 crashlytics.163.com
-127.0.0.1 iad.g.163.com
+127.0.0.1 bilibili.com 
+127.0.0.1 api.vc.bilibili.com
+127.0.0.1 api.bilibili.com
+127.0.0.1 xy115x223x28x164xy.mcdn.bilivideo.cn
+127.0.0.1 cm.bilibili.com
+127.0.0.1 dataflow.biliapi.com
+127.0.0.1 data.bilibili.com
+127.0.0.1 grpc.biliapi.net
+
+# haokan
+127.0.0.1 vd3.bdstatic.com
+127.0.0.1 haokan.baidu.com
