@@ -1,0 +1,17 @@
+# videos-cn default blocklist
+#
+# Project home page:
+# https://github.com/sdm2345/site-list
+
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+#
+# Contribute:
+# Create an issue at https://github.com/sdm2345/site-list/issues
+#
+ 
+# [bilibili.com]
+127.0.0.1 analytics.163.com
+127.0.0.1 crash.163.com
+127.0.0.1 crashlytics.163.com
+127.0.0.1 iad.g.163.com
