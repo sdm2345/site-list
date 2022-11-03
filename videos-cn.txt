@@ -20,6 +20,8 @@
 127.0.0.1 data.bilibili.com
 127.0.0.1 grpc.biliapi.net
 127.0.0.1 upos-hz-mirrorakam.akamaized.net
+127.0.0.1 bilivideo.com
+127.0.0.1 *.bilivideo.com
 
 # haokan
 127.0.0.1 vd3.bdstatic.com
